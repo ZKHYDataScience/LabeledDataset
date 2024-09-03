@@ -96,7 +96,7 @@ DATA ascii
 
 
 
-## LabeledYard/ProcessedLabeled （待完善）
+## LabeledYard/ProcessedLabeled （待继续完善）
 
 该目录包含经过处理和标注的堆料场景数据（目前有5个 `.pcd` 文件），主要用于堆料场景的语义分割和实例分割任务。与 `LabeledYard/Labeled` 中的数据类似，但这些数据经过了进一步的处理和标注。
 
@@ -189,7 +189,7 @@ DATA ascii
 
 
 
-## PanMeiYi （待扩充）
+## PanMeiYi （待扩充数据量）
 
 这个目录包含与盘煤仪相关的数据集和文件（目前有20个ply文件），主要用于盘煤仪项目的去大臂数据训练。
 
