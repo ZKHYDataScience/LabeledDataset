@@ -1,7 +1,7 @@
 <annotation>
-	<folder>firstone</folder>
+	<folder>CarriageNumberDetection</folder>
 	<filename>2024-08-26-12-12-43-0000.png</filename>
-	<path>D:\company\codeup\code\CarriageDataSelect\data\32needcopper\firstone\2024-08-26-12-12-43-0000.png</path>
+	<path>D:\company\codeup\LabeledDataset\CarriageRecognition\CarriageNumberDetection\2024-08-26-12-12-43-0000.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>491</ymin>
 			<xmax>2008</xmax>
 			<ymax>531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2526</xmin>
+			<ymin>485</ymin>
+			<xmax>2560</xmax>
+			<ymax>545</ymax>
 		</bndbox>
 	</object>
 </annotation>

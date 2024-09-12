@@ -568,3 +568,6 @@ D:\company\codeup\code\CarriageDataSelect\data\lastone\CarriageNumberRecognition
 D:\company\codeup\code\CarriageDataSelect\data\lastone\CarriageNumberRecognition\2024-08-28-02-51-18_0006.png	1
 D:\company\codeup\code\CarriageDataSelect\data\lastone\CarriageNumberRecognition\2024-08-28-00-02-09_0000.png	1
 D:\company\codeup\code\CarriageDataSelect\data\lastone\CarriageNumberRecognition\2024-08-28-00-00-05_0000.png	1
+D:\company\codeup\LabeledDataset\CarriageRecognition\CarriageNumberRecognition\2024-08-28-04-40-02_0000.png	1
+D:\company\codeup\LabeledDataset\CarriageRecognition\CarriageNumberRecognition\2024-08-28-04-40-02_0003.png	1
+D:\company\codeup\LabeledDataset\CarriageRecognition\CarriageNumberRecognition\2024-08-28-04-40-02_0007.png	1
