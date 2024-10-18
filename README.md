@@ -118,6 +118,9 @@ DATA ascii
 ### relabel_coal_pile
 该目录包含重新标注的煤堆数据，主要用于堆料的语义分割任务。
 
+**注意**：部分边缘区域存在漏标情况，因此仍需补充标注工作。目前，该数据集仅适合作为堆料的语义分割使用。
+
+![alt text](./图像-Legend插图/Legend/image.png)
 
 
 ## 图像-车厢识别
@@ -166,6 +169,4 @@ DATA ascii
 ## 图像-Legend插图
 该目录包含标注插图，用于辅助数据集的说明。
 
-### 图像引用
-![alt text](./图像-Legend插图/Legend/image.png)
 
